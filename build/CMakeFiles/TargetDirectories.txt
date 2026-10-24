@@ -1,0 +1,14 @@
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/CMakeFiles/edit_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/CMakeFiles/rebuild_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/include/CMakeFiles/matrix.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/include/CMakeFiles/edit_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/include/CMakeFiles/rebuild_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/samples/CMakeFiles/sample_matrix.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/samples/CMakeFiles/edit_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/samples/CMakeFiles/rebuild_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/gtest/CMakeFiles/gtest.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/gtest/CMakeFiles/edit_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/gtest/CMakeFiles/rebuild_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/test/CMakeFiles/test_matrix.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/test/CMakeFiles/edit_cache.dir
+/home/ben/Programming/2nd_course/mp2-lab2-matrix/build/test/CMakeFiles/rebuild_cache.dir

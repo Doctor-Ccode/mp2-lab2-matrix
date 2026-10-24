@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ben/Programming/2nd_course/mp2-lab2-matrix/cmake_install.cmake",
+		"/home/ben/Programming/2nd_course/mp2-lab2-matrix/include/cmake_install.cmake",
+		"/home/ben/Programming/2nd_course/mp2-lab2-matrix/samples/cmake_install.cmake",
+		"/home/ben/Programming/2nd_course/mp2-lab2-matrix/gtest/cmake_install.cmake",
+		"/home/ben/Programming/2nd_course/mp2-lab2-matrix/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

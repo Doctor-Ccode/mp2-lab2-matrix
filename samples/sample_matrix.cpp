@@ -14,9 +14,8 @@ int main()
   int i, j;
 
   setlocale(LC_ALL, "Russian");
-  cout << "Тестирование класс работы с матрицами"
-    << endl;
-  for (i = 0; i < 5; i++)
+  cout << "Тестирование класс работы c матрицами" << endl ;
+    for (i = 0; i < 5; i++)
     for (j = i; j < 5; j++ )
     {
       a[i][j] =  i * 10 + j;
